@@ -17,7 +17,7 @@ Desenvolver um sistema web eficiente e modular para centralizar o controlo de st
 
 ## 💻 5. Tecnologias Utilizadas
  **Linguagem:** PHP (Orientado a Objetos)
- **Controlo de Versões:** Git e GitHub[cite: 5]
+ **Controlo de Versões:** Git e GitHub
  **Servidor Local:** XAMPP (Apache)
 **Documentação:** PDF (`docs/Documentacao_Tecnica.pdf`)
 
