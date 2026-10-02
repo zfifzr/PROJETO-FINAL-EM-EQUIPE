@@ -23,3 +23,20 @@ Desenvolver um sistema web eficiente e modular para centralizar o controlo de st
 
 ## 🗂️ 6. Organização Geral do Projeto
 A estrutura de pastas do projeto está organizada da seguinte forma:
+
+projeto_final_sapataria/
+│
+├── .gitignore
+├── link_repositorio.txt
+├── README.md
+├── index.php
+│
+├── classes/
+│   ├── Cliente.php
+│   ├── Estoque.php
+│   ├── Funcionario.php
+│   ├── Produto.php
+│   └── Venda.php
+│
+└── docs/
+    └── Documentacao_Tecnica.pdf
