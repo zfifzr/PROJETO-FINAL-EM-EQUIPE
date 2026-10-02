@@ -26,14 +26,26 @@ A estrutura de pastas do projeto está organizada da seguinte forma:
 
 Projeto_final_sapataria/
 ├── .gitignore
+
 ├── link_repositorio.txt
+
 ├── README.md
+
 ├── index.php
+
 ├── classes/
+
 │   ├── Cliente.php
+
 │   ├── Estoque.php
+
 │   ├── Funcionario.php
+
 │   ├── Produto.php
+
 │   └── Venda.php
+
 └── docs/
+
     └── Documentacao_Tecnica.pdf
+    
