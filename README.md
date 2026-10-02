@@ -17,26 +17,9 @@ Desenvolver um sistema web eficiente e modular para centralizar o controlo de st
 
 ## 💻 5. Tecnologias Utilizadas
  **Linguagem:** PHP (Orientado a Objetos)
- **Controlo de Versões:** Git e GitHub[cite: 5]
+ **Controlo de Versões:** Git e GitHub,
  **Servidor Local:** XAMPP (Apache)
 **Documentação:** PDF (`docs/Documentacao_Tecnica.pdf`)
 
 ## 🗂️ 6. Organização Geral do Projeto
 A estrutura de pastas do projeto está organizada da seguinte forma:
-
-projeto_final_sapataria/
-│
-├── .gitignore
-├── link_repositorio.txt
-├── README.md
-├── index.php
-│
-├── classes/
-│   ├── Cliente.php
-│   ├── Estoque.php
-│   ├── Funcionario.php
-│   ├── Produto.php
-│   └── Venda.php
-│
-└── docs/
-    └── Documentacao_Tecnica.pdf
